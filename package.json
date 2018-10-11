@@ -1,6 +1,6 @@
 {
   "name": "xsd-schema-validator",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "A (XSD) schema validator for nodejs",
   "main": "lib/validator.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nikku/node-xsd-schema-validator"
+    "url": "https://github.com/d-32/node-xsd-schema-validator"
   },
   "keywords": [
     "xsd",
